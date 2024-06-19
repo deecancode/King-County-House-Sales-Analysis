@@ -70,6 +70,7 @@ The notebook is divided into several modules:
 - **Joseph Santarcangelo**: PhD in Electrical Engineering, IBM.
 - **Michelle Carey**: Contributor.
 - **Mavis Zhou**: Contributor.
+- **Nabelou Ouologuem**: Implemented the code and analysis for this project.
 
 ## License
 
